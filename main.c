@@ -1,7 +1,7 @@
 #include <stdio.h>
 #include "list.h"
 #include <stdbool.h>
-
+// recieved help from Doron
 int main() 
 {
   printf("Write your Tests for your linked list implementation\n");
